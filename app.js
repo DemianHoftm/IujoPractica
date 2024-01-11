@@ -3,7 +3,7 @@ console.log("Bienvenidos a la primera practica")
 const uniforme = (x,k)=>{
 
     let prob= Number((x/k).toFixed(4))
-    return {prob}
+    return {uniforme}
 }
 const suma =(a,b) =>{
 
